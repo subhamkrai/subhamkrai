@@ -21,7 +21,7 @@
 </div>
 
 ### 👨‍💻 About Me :
-I am a Software Engineer from India 🇮🇳 .
+I am a Software Engineer from 🇮🇳 .
 
 - :telescope: I’m working as a Software Engineer at <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" width="20">
 
