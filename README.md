@@ -21,11 +21,11 @@
 </div>
 
 ### 👨‍💻 About Me :
-I am a Software Engineer from 🇮🇳 .
+I am Subham Kumar Rai from 🇮🇳 .
 
 - :telescope: I’m working as a Software Engineer at <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" width="20"> .
 
-- :seedling: Exploring new technology .
+- :seedling: Exploring new technologies .
 
 - :zap: In my free time, I play outdoor games(like 🏏, 🏸, 🏐 ) or watch videos/web series.
 
