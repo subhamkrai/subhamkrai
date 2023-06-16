@@ -12,7 +12,7 @@
 
 <br>
 <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -21,11 +21,11 @@
 </div>
 
 ### 👨‍💻 About Me :
-I am Subham Kumar Rai from 🇮🇳 .
+I am Subham Kumar Rai from 🇮🇳 .  I’m currently working on the storage world of Kubernetes operators mostly on [rook-ceph](https://github.com/rook/rook) (CNCF graduate project). I'm one of the top contributors to rook-ceph project. I maintain the krew plugin for rook-ceph project name [kubectl-rook-ceph](https://github.com/rook/kubectl-rook-ceph). Also, I was one of the speakers at Cephalocon Amsterdam 2023 and FOSDEM 2022.
 
-- :telescope: I’m working as a Software Engineer at <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" width="20"> .
+- :telescope: I’m working as a Software Engineer at <img src="https://github.com/gilbarbara/logos/blob/main/logos/ibm.svg" width="20"> and partner engineer at <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" width="20"> .
 
-- :seedling: Exploring new technologies .
+- :seedling: Trying to start reading books and avoid too much of social media 😄.
 
 - :zap: In my free time, I play outdoor games(like 🏏, 🏸, 🏐 ) or watch videos/web series.
 
